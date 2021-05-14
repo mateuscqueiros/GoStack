@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "uuid": "^8.3.2"
-  }
+  },
+  "name": "main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mateuscqueiros/GoStack.git",
+  "author": "Mateus Queirós <mateuscqueiros1@gmail.com>",
+  "license": "MIT"
 }
